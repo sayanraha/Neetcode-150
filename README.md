@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sayanraha/Neetcode-150/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/sayanraha/Neetcode-150/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sayanraha/Neetcode-150/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/sayanraha/Neetcode-150/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/sayanraha/Neetcode-150/tree/main/0322-coin-change/) | Medium |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/sayanraha/Neetcode-150/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sayanraha/Neetcode-150/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/sayanraha/Neetcode-150/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/sayanraha/Neetcode-150/tree/main/0322-coin-change/) | Medium |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/sayanraha/Neetcode-150/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/sayanraha/Neetcode-150/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -42,4 +45,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sayanraha/Neetcode-150/tree/main/0136-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sayanraha/Neetcode-150/tree/main/0139-word-break/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sayanraha/Neetcode-150/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sayanraha/Neetcode-150/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
