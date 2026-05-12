@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sayanraha/Neetcode-150/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/sayanraha/Neetcode-150/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/sayanraha/Neetcode-150/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/sayanraha/Neetcode-150/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0704-binary-search](https://github.com/sayanraha/Neetcode-150/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sayanraha/Neetcode-150/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/sayanraha/Neetcode-150/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/sayanraha/Neetcode-150/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/sayanraha/Neetcode-150/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sayanraha/Neetcode-150/tree/main/0509-fibonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
